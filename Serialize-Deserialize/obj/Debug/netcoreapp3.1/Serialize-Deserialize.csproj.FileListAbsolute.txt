@@ -1,0 +1,13 @@
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\bin\Debug\netcoreapp3.1\Serialize-Deserialize.exe
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\bin\Debug\netcoreapp3.1\Serialize-Deserialize.deps.json
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\bin\Debug\netcoreapp3.1\Serialize-Deserialize.runtimeconfig.json
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\bin\Debug\netcoreapp3.1\Serialize-Deserialize.runtimeconfig.dev.json
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\bin\Debug\netcoreapp3.1\Serialize-Deserialize.dll
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\bin\Debug\netcoreapp3.1\Serialize-Deserialize.pdb
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.csprojAssemblyReference.cache
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.AssemblyInfoInputs.cache
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.AssemblyInfo.cs
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.csproj.CoreCompileInputs.cache
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.dll
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.pdb
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\Serialize-Deserialize\Serialize-Deserialize\obj\Debug\netcoreapp3.1\Serialize-Deserialize.genruntimeconfig.cache
